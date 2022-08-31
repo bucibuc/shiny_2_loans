@@ -1,0 +1,11 @@
+name: campaGas
+title: campaGas
+username:
+account: testgape
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6766060
+bundleId: 6188938
+url: https://testgape.shinyapps.io/campaGas/
+when: 1660151037.56863
+lastSyncTime: 1660151037.56864
